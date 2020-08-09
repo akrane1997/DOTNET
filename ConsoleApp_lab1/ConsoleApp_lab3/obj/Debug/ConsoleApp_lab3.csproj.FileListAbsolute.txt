@@ -1,0 +1,7 @@
+D:\dotNET\ConsoleApp_lab1\ConsoleApp_lab3\bin\Debug\ConsoleApp_lab3.exe.config
+D:\dotNET\ConsoleApp_lab1\ConsoleApp_lab3\bin\Debug\ConsoleApp_lab3.exe
+D:\dotNET\ConsoleApp_lab1\ConsoleApp_lab3\bin\Debug\ConsoleApp_lab3.pdb
+D:\dotNET\ConsoleApp_lab1\ConsoleApp_lab3\obj\Debug\ConsoleApp_lab3.csprojAssemblyReference.cache
+D:\dotNET\ConsoleApp_lab1\ConsoleApp_lab3\obj\Debug\ConsoleApp_lab3.csproj.CoreCompileInputs.cache
+D:\dotNET\ConsoleApp_lab1\ConsoleApp_lab3\obj\Debug\ConsoleApp_lab3.exe
+D:\dotNET\ConsoleApp_lab1\ConsoleApp_lab3\obj\Debug\ConsoleApp_lab3.pdb
